@@ -1,0 +1,13 @@
+{
+  "name"         : "node-Pinterest-Download",
+  "version"      : "0.0.1",
+  "description"  : "Scraper to save Pinterest Board Images",
+  "main"         : "server.js",
+  "author"       : "mark breneman",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "url"        : "latest"
+  }
+}
